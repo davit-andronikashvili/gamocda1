@@ -1,0 +1,53 @@
+/*///header///*/
+.header{
+	width: 1366px;
+	height: 324px;
+	background-image: url("72.jpg");
+}
+.container{
+	display: flex;
+	justify-content: space-between;
+	padding-top: 30px;
+	padding-left: 139px;
+	width: 1189px;
+	height: 20px;
+}
+.ul{
+	display: flex;
+}
+.zetta{
+	font-family: 'Poppins', sans-serif;
+	color: #FFFFFF;
+	font-size: 14px;
+}
+.nav-li{
+	font-family: 'Poppins', sans-serif;
+	color: #FFFFFF;
+	margin-left: 48px;
+	font-size: 12px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;800&display=swap');
+.about{
+	padding-top: 146px;
+	padding-left: 139px;
+	font-size: 42px;
+	color: #FFFFFF;
+	font-family: 'poppins';
+}
+.ha{
+	display: flex;
+	font-family: 'Poppins', sans-serif;
+	font-size:14px;
+	color: #FFFFFF;
+	padding-top: 14px;
+	padding-left: 139px;
+	padding-bottom: 85px;
+}
+.line{
+	height: 14px;
+	width: 1px;
+	background: #FFFFFF;
+	margin-left: 14.5px;
+	margin-right: 14.5px;
+}
+/*end header*/
