@@ -152,5 +152,38 @@
 .box3{
 	width: 260px;
 	height: 260px;
-	background: #FFFFFF
+	background: #FFFFFF;
+
+}
+.circle{
+	margin-top: 27px;
+	margin-left: 101px;
+	height: 60px;
+  width: 59px;
+  background-color: #5863F8;
+  border-radius: 50%;
+  
+}
+.p001{
+	padding-top: 13px;
+	padding-left: 13px;
+	/*transform: translate(-50%, -50%);*/
+}
+.h3_section4{
+	margin-top: 15px;
+	margin-left: 47px;
+	width: 166px;
+	height: 52px;
+	font-stretch: 18px;
+	color: #000000;
+	text-align: center;
+}
+.p_section4{
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 221px;
+	height: 62px;
+	font-size: 14px;
+	color: #B1B1B1;
+	text-align: center;
 }
