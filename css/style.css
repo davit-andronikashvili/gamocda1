@@ -187,3 +187,20 @@
 	color: #B1B1B1;
 	text-align: center;
 }
+/*end*/
+/*start section3*/
+.section3{
+	width: 1366px;
+	height: 487px;
+	display: flex;
+}
+.block1{
+	width: 785px;
+	height: 487px;
+	background-color: red
+}
+.block2{
+	width: 585px;
+	height: 487px;
+	background-color: black
+}
